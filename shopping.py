@@ -1,9 +1,6 @@
 #__author: JuncWang
 #date: 2018/5/23
 
-#__author: JuncWang
-#date: 2018/5/23
-
 salary = int(input("请输入你的资金 :\t"))
 commodity = [ 'iphone6s','macbook','coffee','pythonbook','bicyle']
 price = [5800,9000,32,80,1500]
